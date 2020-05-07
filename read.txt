@@ -1,7 +1,0 @@
-This project is for angular demo.
-
-Angular 7, as this is the latest one. 
-
-I have to cover spring cloud also.
-
-I have to cover design pattern also.
