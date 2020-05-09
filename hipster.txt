@@ -2,6 +2,6 @@ this is the new file.
 
 for the branch.
 
-This file is modified by Amit Kaushik.
+This file is modified by Kaushik.
 
 
