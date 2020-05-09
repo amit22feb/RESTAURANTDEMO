@@ -1,7 +1,6 @@
 this is the new file.
 
-for the master.
 
-This file is created by Amit.
+This file is modified by Kaushik.
 
 
