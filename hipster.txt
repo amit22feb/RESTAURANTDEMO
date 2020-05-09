@@ -2,8 +2,6 @@ this is the new file.
 
 for the master.
 
-This file is created by Amit Kaushik.
-
-This file is modified by Amit Kaushik.
+This file is created by Amit.
 
 
