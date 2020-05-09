@@ -2,6 +2,6 @@ this is the new file.
 
 for the branch.
 
-This is a copyright.
+This is a copyright abc.
 
-This details are added by amit kaushik.
+This details are added by namit kaushik.
