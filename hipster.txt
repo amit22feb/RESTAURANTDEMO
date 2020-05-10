@@ -1,6 +1,6 @@
 this is the new file.
 
-from the masters. rebase-master
+from the github.
 
 This file is modified by monu.
 
