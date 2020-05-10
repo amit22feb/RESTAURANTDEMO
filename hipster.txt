@@ -1,6 +1,6 @@
-this is the new file.
+This is the new file.
 
-from the github.
+This is  from the github.
 
 This file is modified by monu.
 
