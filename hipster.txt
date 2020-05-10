@@ -1,6 +1,6 @@
 This is the new file.
 
-This is  from the github repository. Is that clear
+This is  from the masters. Is that clear.
 
 This file is modified by monu.
 
