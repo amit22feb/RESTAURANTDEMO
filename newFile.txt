@@ -2,4 +2,4 @@ This is a dummy test file
 
 this is copyright.
 
-My name is amit kaushik
+My name is sumit kaushik
